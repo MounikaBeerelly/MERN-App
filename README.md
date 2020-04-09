@@ -1,6 +1,6 @@
 # MERN-App 
 
-This is the simple MERN(MongoDB, Express, ReactJS, NodeJs) Application.
+This is the simple MERN (MongoDB, Express, ReactJS, NodeJs) Application.
 
 1. Create React Application using *"npx install create-react-app student-app"* command.
 2. *"npm install -g express generator"* used to install Node App.
