@@ -3,8 +3,10 @@
 This is the simple MERN (MongoDB, Express, ReactJS, NodeJs) Application.
 
 #### Below is the screenshot of this project:
-1. ![Screenshot](Screenshot1.png)
-2. ![Screenshot](Screenshot2.png)
+ ![Screenshot](Screenshot1.png)
+ *** AND ***
+ ![Screenshot](Screenshot2.png)
+ 
 1. Create React Application using *"npx install create-react-app student-app"* command.
 2. *"npm install -g express generator"* used to install Node App.
 3. Then use command __"express"__. It give sthe Node structure.
